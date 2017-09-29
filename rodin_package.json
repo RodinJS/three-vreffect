@@ -1,5 +1,5 @@
 {
-  "name": "three-vreffect",
+  "name": "threejs-vreffect",
   "main": "index.js",
   "es_module": false,
   "dependencies": {
