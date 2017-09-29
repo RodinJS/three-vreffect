@@ -1,0 +1,8 @@
+{
+  "name": "three-vreffect",
+  "main": "index.js",
+  "es_module": false,
+  "dependencies": {
+    "threejs/main": "r87"
+  }
+}
